@@ -1,5 +1,5 @@
 # Bitbucket and Github:
-<i>inspired by: https://github.com/agis-/git-style-guide#commits and http://stackoverflow.com/questions/273695/git-branch-naming-best-practices</i>
+*inspired by: https://github.com/agis-/git-style-guide#commits and http://stackoverflow.com/questions/273695/git-branch-naming-best-practices*
 
 ## General Rules:
 * avoid long, descriptive names
@@ -7,10 +7,7 @@
 
 ## Project (Folders):
 
-* project-name-time
-* projectNameTime
-* ProjectNameTime
-* projectName-time
+* ProjectName-Time
 
 ## Branches:
 
@@ -20,7 +17,7 @@
 ## Commit Messages:
 (see https://chris.beams.io/posts/git-commit/)
 
-### <i>Generale Rules:</i>
+### *Generale Rules:*
 * Separate subject from body with a blank line
 * Limit the subject line to 50 characters
 * Capitalize the subject line
@@ -29,7 +26,7 @@
 * Wrap the body at 72 characters
 * Use the body to explain what and why vs. how
 
-### <i> Naming </i>
+### *Naming*
 
 Subject line: 
 A properly formed Git commit subject line should always be able to complete the following sentence:
