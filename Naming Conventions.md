@@ -7,7 +7,9 @@
 
 ## Project (Folders):
 
-* ProjectName-Time
+*Naming*: Client-ProjectName-Time
+
+*Ex*: PLacke-GuideBook-2016, ChildV-SomeProject-2017
 
 ## Branches:
 
