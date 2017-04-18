@@ -3,13 +3,15 @@
 
 ## General Rules:
 * avoid long, descriptive names
-* do not just use numbers
+* with the exception of dates, do not just use numbers
 
 ## Project (Folders):
 
 *Naming*: Client-ProjectName-Time
 
 *Ex*: PLacke-GuideBook-2016, ChildV-SomeProject-2017
+
+If you are creating folders for the same projects across multiple platforms (Github, Google Drive, etc.), be sure to keep the folder name the same for all projects.
 
 ## Branches:
 
